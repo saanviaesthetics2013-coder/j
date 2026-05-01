@@ -1,0 +1,1 @@
+let currentBook = null;
